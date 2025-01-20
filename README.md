@@ -1,2 +1,2 @@
 # ECS_Game_Project
-Capstone project for the ECS game programing.
+Capstone project for the ECS game programming.
